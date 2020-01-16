@@ -1,2 +1,2 @@
 Projet de stage: 
-construire un module sur la prédiction du churn pour Envouthé.
+L'implémentation d'un module sur la prédiction du churn pour Envouthé.
